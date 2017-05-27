@@ -31,6 +31,6 @@ Example
 
 See a fast demonstration of the dynamic layout
 
-<iframe  title="YouTube video player" width="480" height="390" src="https://www.youtube.com/watch?v=jtEB0WbDnnE" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="390" src="https://www.youtube.com/embed/jtEB0WbDnnE"></iframe>
 
 
