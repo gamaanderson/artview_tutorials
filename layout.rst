@@ -31,6 +31,8 @@ Example
 
 See a fast demonstration of the dynamic layout
 
+|Build Status|
+
 .. |Build Status| image:: http://img.youtube.com/vi/jtEB0WbDnnE/0.jpg
    :target: http://www.youtube.com/watch?v=jtEB0WbDnnE
 
