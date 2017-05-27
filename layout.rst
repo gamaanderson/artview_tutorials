@@ -31,11 +31,8 @@ Example
 
 See a fast demonstration of the dynamic layout
 
-.. raw:: html
+[![Youtube](http://i.imgur.com/jtEB0WbDnnE.png)](https://youtu.be/jtEB0WbDnnE "Youtube")
 
-    <embed>
-        <iframe width="480" height="390" src="https://www.youtube.com/embed/jtEB0WbDnnE"></iframe>
-    </embed>
 
 
 
