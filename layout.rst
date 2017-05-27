@@ -29,12 +29,13 @@ It allows you to:
 Example
 -------
 
-See a fast demonstration of the dynamic layout, click on the image
+See a fast demonstration of the dynamic layout
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jtEB0WbDnnE/0.jpg)](http://www.youtube.com/watch?v=jtEB0WbDnnE)
 
-[![Youtube](https://img.youtube.com/vi/jtEB0WbDnnE/0.jpg)](https://www.youtube.com/watch?v=jtEB0WbDnnE "Youtube")
-
+<dl>
+    <iframe width="480" height="390" src="https://www.youtube.com/embed/jtEB0WbDnnE"></iframe>
+</dl>
 
 
 
