@@ -31,6 +31,8 @@ Example
 
 See a fast demonstration of the dynamic layout, click on the image
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 [![Youtube](https://img.youtube.com/vi/jtEB0WbDnnE/0.jpg)](https://www.youtube.com/watch?v=jtEB0WbDnnE "Youtube")
 
 
