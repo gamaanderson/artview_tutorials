@@ -31,6 +31,12 @@ Example
 
 See a fast demonstration of the dynamic layout
 
-<iframe width="480" height="390" src="https://www.youtube.com/embed/jtEB0WbDnnE"></iframe>
+.. raw:: html
+
+    <embed>
+        <iframe width="480" height="390" src="https://www.youtube.com/embed/jtEB0WbDnnE"></iframe>
+    </embed>
+
+
 
 
