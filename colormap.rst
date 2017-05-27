@@ -12,7 +12,7 @@ This Tutorial introduces the use of the *ColormapEdit* Plugin, for advanced edit
 Open
 ----
 
-You will find the ColormapEdit in the modes *Edit Colormap (radar)* or *Edit Colormap (grid)*, depending on whether you if want to conect it to a *RadarDisplay* or a *GridDisplay*
+You will find the ColormapEdit in the modes *Edit Colormap (radar)* or *Edit Colormap (grid)*, depending on whether you want to conect it to a *RadarDisplay* or a *GridDisplay*
 
 Function
 --------
