@@ -29,10 +29,10 @@ It allows you to:
 Example
 -------
 
-See a fast demonstration of the dynamic layout
+See a fast demonstration of the dynamic layout (click on image)
 
-|Build Status|
+|example|
 
-.. |Build Status| image:: http://img.youtube.com/vi/jtEB0WbDnnE/0.jpg
+.. |example| image:: http://img.youtube.com/vi/jtEB0WbDnnE/0.jpg
    :target: http://www.youtube.com/watch?v=jtEB0WbDnnE
 
