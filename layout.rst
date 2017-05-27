@@ -29,9 +29,9 @@ It allows you to:
 Example
 -------
 
-See a fast demonstration of the dynamic layout
+See a fast demonstration of the dynamic layout, click on the image
 
-[![Youtube](http://i.imgur.com/jtEB0WbDnnE.png)](https://youtu.be/jtEB0WbDnnE "Youtube")
+[![Youtube](https://img.youtube.com/vi/jtEB0WbDnnE/0.jpg)](https://www.youtube.com/watch?v=jtEB0WbDnnE "Youtube")
 
 
 
